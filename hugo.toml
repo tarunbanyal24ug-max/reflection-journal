@@ -1,5 +1,6 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://tarunbanyal24ug-max.github.io/reflection-journal/"
 languageCode = "en-us"
 title = "Reflection Journal"
 theme = "ananke"
+
 
